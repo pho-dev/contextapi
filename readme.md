@@ -1,5 +1,5 @@
 
-# Projeto para testes sobre ContextApi 
+# Projeto para testes sobre Context Api 
 
 Base do projeto para entendimento de contextapi. Esse projeto foi criado com EXPO.
 
